@@ -151,10 +151,11 @@ streamlit run app.py
 ## 📈 Use Cases
 
 ✔ Construction project documentation
+
 ✔ Safety manuals generation
-✔ Technical report automation
+
 ✔ Site procedure documentation
-✔ Client-ready PDF generation
+
 
 ---
 
